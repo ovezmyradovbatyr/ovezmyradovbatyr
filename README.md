@@ -90,30 +90,10 @@ class BatyrOvezmyradov extends FlutterDeveloper {
 
 | Period | Role | Company | Location |
 |--------|------|---------|----------|
-| 🟢 Aug 2025 – Mar 2026 | **Senior Software Engineer** | **AkBulut HJ** | Ashgabat, Turkmenistan |
-| 🔵 Jun 2023 – May 2025 | **Mobile App Developer** (Remote) | **Softnova** | Remote 🌍 |
-| ⚪ Aug 2020 – Jun 2023 | **Mobile App Developer** | **Bilermen Nesil Takyk Studio** | Ashgabat, Turkmenistan |
+| 🟢 July 2025 – now | **Mobile App Developer** | **Setir Tech** | Ashgabat, Turkmenistan |
 
 ---
 
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 📋 [Aýterek](https://github.com/Dadebay)
-> Classifieds & Marketplace Platform
-
-Free platform for buying, selling and finding anything — with easy search and built-in chat.
-
-`Flutter` `Firebase` `REST API`
-
-</td>
-<td width="50%" valign="top">
-
-### 📚 [elkitap – eBook Reader](https://github.com/Dadebay)
-> Personal Online Library App
 
 A convenient e-book reader. Your personal online library, always with you.
 
@@ -125,35 +105,6 @@ A convenient e-book reader. Your personal online library, always with you.
 
 ---
 
-## 📦 Projects Portfolio
-
-<div align="center">
-
-| App | Category | Description |
-|-----|----------|-------------|
-| 🛍️ **[Alybaba](https://github.com/Dadebay/Alybaba_eCommerce)** | eCommerce · Dropshipping | Virtual marketplace with products from China — home, garden, car, clothing & more |
-| 🏠 **[Jaytap / Gamysh](https://github.com/Dadebay/Gamysh_Real_Estate_app)** | Real Estate | Buy & sell real estate online with filters and listings |
-| 🎮 **[UCDAYY](https://github.com/Dadebay/Pubg_Tournaments_and_Selling_Accounts_app)** | Gaming · UC Selling | PUBG UC selling platform + free tournament entry |
-| 🧥 **[YAKA](https://github.com/Dadebay/Turkmen_Collar_Selling_App)** | eCommerce | Premium collar marketplace with top brand products |
-| 💄 **[Sharafyabi](https://github.com/Dadebay/SharafYabi_Cosmetics_eCommerce)** | Cosmetics · eCommerce | Online cosmetics store with affordable prices |
-| 📊 **[Stock Management](https://github.com/Dadebay/Stock_managament_admin)** | Admin Dashboard | Full stock management app + admin panel for sellers |
-| 🍣 **Bamboo Restaurant** | Food & Beverage | Online sushi restaurant ordering app |
-| ✂️ **Atelyam** | Fashion | Tailors and fashion marketplace app |
-| 💊 **Nurana Bedew** | eCommerce · Pharmacy | Online pharmacy and health products store |
-| ☁️ **AK BULUT** | eCommerce | Full eCommerce website built with Flutter Web |
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ovezmyradovbatyr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ovezmyradovbatyr&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 <div align="center">
 
