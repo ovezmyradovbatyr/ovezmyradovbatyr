@@ -20,7 +20,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Flutter+Developer+%F0%9F%9A%80;4%2B+Years+of+Experience;Mobile+%7C+Web+%7C+Desktop+%7C+Admin;Open+to+Remote+Work+%F0%9F%8C%8D)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=Dadebay&color=6C63FF&style=flat-square&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=ovezmyradovbatyr&color=6C63FF&style=flat-square&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -150,20 +150,20 @@ A convenient e-book reader. Your personal online library, always with you.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dadebay&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dadebay&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ovezmyradovbatyr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ovezmyradovbatyr&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dadebay&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ovezmyradovbatyr&theme=tokyonight&hide_border=true)
 
 </div>
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Dadebay&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ovezmyradovbatyr&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1)
 
 </div>
 
@@ -184,11 +184,10 @@ A convenient e-book reader. Your personal online library, always with you.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gurbanovv)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dadebay)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Gurbanov_D)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/g.dadebay)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dadebaygurbanow333@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ovezmyradovbatyr)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/batyr2906)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/batyr_ovezmyradov_05)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vepayevich7@gmail.com)
 
 </div>
 
