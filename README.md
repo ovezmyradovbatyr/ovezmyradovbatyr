@@ -111,12 +111,6 @@ A convenient e-book reader. Your personal online library, always with you.
 
 </div>
 
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ovezmyradovbatyr&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1)
-
-</div>
-
 ---
 
 ## 🌍 Languages
