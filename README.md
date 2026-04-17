@@ -18,7 +18,6 @@
 
 **`Flutter Developer · Mobile · Web · Desktop · Admin Dashboards`**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Flutter+Developer+%F0%9F%9A%80;4%2B+Years+of+Experience;Mobile+%7C+Web+%7C+Desktop+%7C+Admin;Open+to+Remote+Work+%F0%9F%8C%8D)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=ovezmyradovbatyr&color=6C63FF&style=flat-square&label=PROFILE+VIEWS" />
 
