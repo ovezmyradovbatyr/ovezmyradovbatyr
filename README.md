@@ -30,7 +30,7 @@
 ```dart
 class BatyrOvezmyradov extends FlutterDeveloper {
   
-  final String location    = "Riga, Latvia 🇱🇻";
+  final String location    = "Ashgabat, Turkmenistan;
   final String experience  = "1+ years";
   final String focus       = "Mobile · Web · Desktop · Admin Dashboard";
   final bool   openToWork  = true;
